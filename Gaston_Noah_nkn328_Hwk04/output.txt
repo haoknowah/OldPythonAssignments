@@ -1,0 +1,53 @@
+output
+
+102_analyzeASentence:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk04/102_analyzeASentence.py 
+__main__
+Type a sentence here: meowing kittens
+The first word of the sentence is meowing and the last word is kittens
+>>>
+
+
+104_name:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk04/104_name.py 
+__main__
+Enter a three part name: naoh russell gaston
+Your middle name is russell
+>>>
+
+
+chapRev#1_makeChange:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk04/chapRev#1_makeChange.py 
+__main__
+Enter an amount of change in cents: 168
+Sackajewia(s): 1
+Quarter(s): 2
+Dime(s): 1
+Nickel: 1
+Penny(ies): 3
+
+
+chapRev#4_unitPrice:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk04/chapRev#4_unitPrice.py 
+__main__
+Enter the price of the item: 25.50
+Enter how many pounds it is rounded down to the nearest pound: 1
+Now enter how many ounces were rounded off: 9
+The price per ounce is $1.02
+>>>
+
+
+chapRev#6_lengthConvertion:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk04/chapRev#6_lengthConversion.py 
+__main__
+Enter number of miles: 5
+Enter number of yards: 20
+Enter number of feet: 2
+Enter number of inches: 4
+Metric length: 
+Hamster wheels going full power.
+Done. After conversion it is: 
+8 kilometers
+65 meters
+73.5 centimeters
+>>> 

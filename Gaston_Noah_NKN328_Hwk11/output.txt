@@ -1,0 +1,22 @@
+CH04_002_primeFactors
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk11\CH04_002_primeFactors.py 
+Enter a number to factor: 72
+The smallest prime factor is 2 and the largest is 3
+Continue? y or n n
+>>>
+
+CH04_003_verbalizeANumber
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk11\CH04_003_verbalizeANumber.py 
+Enter a positive number with up to 27 digits: 123456789
+123  million             
+456  thousand            
+789
+Continue? y or n n
+>>>
+
+CH04_alphabeticalOrder
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk11/CH04_005_alphabeticalOrder.py 
+Enter a word here.nope
+nope has three letters in abc order.
+Continue? y or n n
+>>> 

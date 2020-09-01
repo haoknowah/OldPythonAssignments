@@ -1,0 +1,27 @@
+25_maxFunction
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk09.zip/25_maxFunction.py 
+__main__
+Enter a number: 5
+Type n to end.f
+Enter a number: 6
+Type n to end.f
+Enter a number: 8
+Type n to end.n
+The max is: 8.0
+>>> 
+26_countFunction
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk09.zip/26_countFunction.py 
+__main__
+Type some words here: hihiih
+Type a letter or set of letters to find: hi
+The given substring occurs 2 times.
+Type end to end or anything else to restart: end
+>>>
+27_qwertyWords
+28_factorial
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk09.zip/28_factorial.py 
+__main__
+Enter a positive integer: 5
+120
+Continue? y or nn
+>>> 

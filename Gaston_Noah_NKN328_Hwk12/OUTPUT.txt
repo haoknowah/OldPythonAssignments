@@ -1,0 +1,24 @@
+OUTPUT
+033_crayonColors=see output file final.txt
+034_numbers= RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk12/034_numbers.py 
+There are 6 numbers in the file.
+Continue? y or n n
+035_numbers= RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk12/035_numbers.py 
+9 is the largest number in the file.
+Continue? y or n n
+036_numbers= RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk12/036_numbers.py 
+2 is the smallest number in the file.
+Continue? y or n n
+037_numbers= RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk12/037_numbers.py 
+30 is the sum of the numbers in the file.
+Continue? y or n n
+>>>
+038_numbers= RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk12/038_numbers.py 
+5.0 is the average of the numbers in the file.
+Continue? y or n n
+>>>
+039_numbers= RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk12\039_numbers.py 
+4 is the last number in the file.
+Continue? y or n n
+>>>
+046_fileOfNames=see output file Names2.txt

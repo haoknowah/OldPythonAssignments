@@ -1,0 +1,81 @@
+OUTPUT
+007_alphabeticalOrder():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/007_alphabeticalOrder.py 
+Is the list in abc order:  True
+Is the list in abc order:  False
+>>>
+008_sequenceOfNumbers():
+RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/008_sequenceOfNumbers.py 
+Type an integer: 5
+Type another one: 10
+5
+6
+7
+8
+9
+10
+Continue? y or nn
+>>>
+009_subsets():
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk18\009_subsets.py 
+Input an integer here: 5
+[1, 5, 10, 10, 5, 1]
+Do you wish to continue? y or n n
+>>>
+010_fibonacciSequence():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/010_fibonacciSequence.py 
+Type an integer here: 4
+Fibonacci number:  3
+Reset? y or n y
+Type an integer here: 7
+Fibonacci number:  13
+Reset? y or n n
+>>>
+011_greatestCommonDivisor():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/011_greatestCommonDivisor.py 
+Type a positive integer here:8
+Type another positive integer:20
+4
+Reset? y or n n
+>>>
+014_sumOfNumbers():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/014_sumOfNumbers.py 
+Type a number or end to stop adding: 1
+Type a number or end to stop adding: 2
+Type a number or end to stop adding: end
+3.0
+Reset? y or n n
+>>>
+Ch06_001_guessMyNumber():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/Ch06_001_guessMyNumber.py 
+I've thought of a number from 1 through 100.
+Guess the number: 50
+Too low
+Try again: 80
+Too high
+Try again: 70
+Too high
+Try again: 65
+Too high
+Try again: 60
+Too high
+Try again: 55
+Too low
+Try again: 57
+Too high
+Try again: 56
+Correct. You took 8 guesses.
+Reset? y or n n
+>>>
+Ch06_005_permutation():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/Ch06_005_permutation.py 
+Enter a word with no repeated letters: cat
+['cat', 'cta', 'act', 'atc', 'tca', 'tac']
+Reset? y or n n
+>>>
+Ch06_006_pascalsTriangle():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk18/Ch06_006_pascalsTriangle.py 
+Input an integer here: 6
+Row 6: [1, 6, 15, 20, 15, 6, 1]
+Do you wish to continue? y or n n
+>>> 

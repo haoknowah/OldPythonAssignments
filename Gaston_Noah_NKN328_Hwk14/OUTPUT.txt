@@ -1,0 +1,98 @@
+OUTPUT
+051_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/051_supremeCourt.py 
+Type the name of a president: George W. Bush
+Samuel Alito was instated in 2006
+John Roberts was instated in 2005
+Continue? y or n n
+>>>
+
+052_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/052_supremeCourt.py 
+Type the abreviation of a state in all caps: TN
+Abe Fortas was instated in 1965
+Horace Lurton was instated in 1910
+James McReynolds was instated in 1914
+Edward Sanford was instated in 1923
+Howell Jackson was instated in 1893
+John Catron was instated in 1837
+Continue? y or n n
+>>>
+
+053_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/053_supremeCourt.py 
+Type the name of a justice: Abe Fortas
+State:  TN
+Apointed in: 1965
+Appointed by: Lyndon Johnson
+Left in: 1969
+Continue? y or n n
+>>>
+
+054_supremeCourt:
+AL has had 3 justices.
+AZ has had 2 justices.
+CA has had 5 justices.
+CO has had 1 justices.
+CT has had 3 justices.
+GA has had 3 justices.
+IA has had 2 justices.
+IL has had 4 justices.
+IN has had 1 justices.
+KS has had 1 justices.
+KY has had 5 justices.
+LA has had 1 justices.
+MA has had 10 justices.
+MD has had 5 justices.
+ME has had 1 justices.
+MI has had 2 justices.
+MN has had 2 justices.
+MO has had 1 justices.
+MS has had 1 justices.
+NC has had 2 justices.
+NH has had 2 justices.
+NJ has had 5 justices.
+NY has had 16 justices.
+OH has had 9 justices.
+PA has had 6 justices.
+SC has had 2 justices.
+TN has had 6 justices.
+TX has had 1 justices.
+VA has had 8 justices.
+VT has had 1 justices.
+WY has had 1 justices.
+Continue? y or n n
+>>>
+
+055_letterFrequency:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/055_letterFrequency.py 
+Enter a sentence: I like pie
+i: 3
+e: 2
+l: 1
+k: 1
+p: 1
+Continue? y or n n
+>>>
+
+CH05_001_unitConversions:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/CH05_001_unitConversion.py 
+UNITS OF LENGTH
+inches      furlongs    yards       
+fathoms     feet        kilometers  
+meters      miles       rods        
+
+Units to Convert From: miles
+Units to convert to: rods
+Enter length in miles: 72
+Length in rods: 23,040.0000
+>>>
+
+CH05_002_curveGrades:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk14/CH05_002_curveGrades.py 
+Number of scores: 14
+Average score: 71.0
+Standard deviation of scores: 14.42
+GRADE DISTRIBUTION AFTER CURVING GRADES.
+A: 2    B: 1    C: 6    D: 4    F: 1    
+>>> 

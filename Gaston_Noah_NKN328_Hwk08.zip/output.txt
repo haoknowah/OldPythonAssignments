@@ -1,0 +1,47 @@
+57_alphabeticalOrder():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/057_alphabeticalOrder.py 
+__main__
+Enter a word: no
+The word is in alphabetical order.
+58_vowelWords():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/058_vowelWords.py 
+__main__
+Type a word here: aeiou
+The word contains every vowel.
+66_median():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/066_median.py 
+__main__
+Enter a number of values to input: 3
+Enter an integer here: 1
+Enter an integer here: 2
+Enter an integer here: 3
+2
+75_sameBirthday():
+
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/075_sameBirthday.py 
+__main__
+In a group of 21 people, the odds of two of them sharing a birthday is 0.444
+In a group of 22 people, the odds of two of them sharing a birthday is 0.476
+In a group of 23 people, the odds of two of them sharing a birthday is 0.507
+In a group of 24 people, the odds of two of them sharing a birthday is 0.538
+78_specialNumber():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/078_specialNumber.py 
+__main__
+2178  is a special number.
+CH03_002_quadraticEquation():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/CH03_002_quadraticEquation.py 
+__main__
+Enter a value for a: 1
+Enter a value for b: -11
+Enter a value for c: 28
+The solutions are  7.0  and  4.0
+CH03_006_soundexSystem():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/CH_03_006_soundexSystem.py 
+__main__
+Enter a word: run
+The encoded word is  r5
+CH03_08_palindrome():
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk08.zip/CH03_008_palindrome.py 
+__main__
+Enter a word or phrase: mam
+Is a palindrome.

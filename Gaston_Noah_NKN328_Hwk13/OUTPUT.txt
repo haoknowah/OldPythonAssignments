@@ -1,0 +1,80 @@
+OUTPUT
+011_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/011_supremeCourt.py 
+Enter the name of a president: George W. Bush
+The justices appointed by this president are: 
+John Roberts
+Samuel Alito
+Continue? y or n n
+
+012-supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/012_supremeCourt.py 
+The current justices are: 
+Antonin Scalia
+Anthony Kennedy
+Clarence Thomas
+Ruth Ginsburg
+Stephen Breyer
+John Roberts
+Samuel Alito
+Sonia Sotomayor
+Elena Kagan
+Continue? y or n n
+>>>
+
+013_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/013_supremeCourt.py 
+Justice:            Assigned president: 
+William Brennan     Dwight Eisenhower   
+Potter Stewart      Dwight Eisenhower   
+Byron White         John Kennedy        
+Thurgood Marshall   Lyndon Johnson      
+Warren Burger       Richard Nixon       
+Harry Blackman      Richard Nixon       
+Lewis Powell        Richard Nixon       
+William Rehnquist   Richard Nixon       
+John Stevens        Gerald Ford         
+Continue? y or n n
+
+014_supremeCourt:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/014_supremeCourt.py 
+Enter a state abbreviation: TN
+Justice             Appointing pres               Time served         
+JohnCatron          Martin Van Buren              28                  
+JamesMcReynolds     Woodrow Wilson                27                  
+EdwardSanford       Warren Harding                7                   
+AbeFortas           Lyndon Johnson                4                   
+HoraceLurton        William Taft                  4                   
+HowellJackson       Benjamin Harrison             2                   
+Continue? y or n n
+>>>
+
+015_the12DaysOfChristmas:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/015_the12DaysOfChristmas.py 
+Enter an integer 1 through 12: 5
+READ
+The gifts for day 5 are: 
+1    partridge in a pear tree
+2    turtle doves
+3    French hens
+4    calling birds
+5    gold rings
+The cost for day 5 is: $1864.14
+The total cost by day 5 is: $4032.82
+Continue? y or n n
+>>>
+
+016_computerPioneers:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk13/016_computerPioneers.py 
+Charles Babbage       Augusta Ada Byron   Alan Turing         John V. Atanasoff   
+Grace M. Hopper       John Mauchley       J. Presper Eckert   John von Neumann    
+John Backus           Reynold B. Johnson  Harlan B. Mills     Donald E. Knuth     
+Ted Hoff              Stan Mazer          Robert Noyce        Federico Faggin     
+Douglas Engelbart     Bill Gates          Paul Allen          Stephen Wozniak     
+Stephen Jobs          Dennis Ritchie      Ken Thompson        Alan Kay            
+Tim Berners-Lee       Charles Simonyi     Bjarne Stroustrup   Richard M. Stallman 
+Marc Andreessen       James Gosling       Linus Torvalds      Guido van Rossum    
+Type the name of a pioneer: Charles Babbage
+Charles Babbage is called the father of the computer
+Continue? y or n n
+>>> 

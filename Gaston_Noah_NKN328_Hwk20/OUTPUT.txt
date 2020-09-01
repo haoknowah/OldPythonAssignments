@@ -1,0 +1,83 @@
+OUTPUT
+009_semesterGrades:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk20/009_semesterGrades.py 
+Enter student's name: meow
+Enter student's grade on midterm exam: 95
+Enter student's grade on final exam: 100
+Enter category (LG or PF): LG
+Do you want to continue (Y/N)? Y
+Enter student's name: yub
+Enter student's grade on midterm exam: 85
+Enter student's grade on final exam: 90
+Enter category (LG or PF): PF
+Do you want to continue (Y/N)? N
+meow
+Continue? y or n n
+>>>
+
+010_semesterGrades:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk20\010_semesterGrades.py 
+Enter student's name: ugh
+Enter student's grade on midterm exam: 85
+Enter student's grade on final exam: 90
+Enter category (LG or PF): PF
+Do you want to continue (Y/N)? N
+ugh
+Continue? y or n n
+>>>
+
+011_rockPaperScissors:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk20/011_rockPaperScissors.py 
+Enter player name: me
+Are you going to use rock, paper, or scissors? rock
+CPU plays  rock
+Draw
+me  0 	 com  0
+Continue? y or n n
+>>>
+
+012_semesterGrades:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk20/012_semesterGrades.py 
+Enter student's name: the
+Enter student's grade on midterm exam: 95
+Enter student's grade on final exam: 95
+Enter category (LG or PF): LG
+Do you want to continue (Y/N)? N
+
+NAME	GRADE	STATUS
+the	A	Full-time student
+Continue? y or n n
+>>>
+
+CH07_001a_unitedNations:
+see other problems
+
+CH07_001b_unitedNations:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk20/CH07_001b_unitedNations.py 
+Enter a country: United States
+Continent: North America
+Population: 318,900,000
+Area: 3,794,066.00 square miles
+Continue? y or n n
+>>>
+
+CH07_001c_unitedNations:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk20\CH07_001c_unitedNations.py 
+Enter a continent: South America
+Ecuador
+Colombia
+Venezuela
+Brazil
+Peru
+Continue? y or n n
+>>>
+
+CH07_002_savingsAccount:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk20/CH07_002_savingsAccount.py 
+Type name of account: kittens
+D for deposit, W for withdrawal, B for current balance, or Q to quit.D
+Enter amount to deposit in digits: 500
+New balance is $500.0
+D for deposit, W for withdrawal, B for current balance, or Q to quit.Q
+Have a good day kittens
+>>> 

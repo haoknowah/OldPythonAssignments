@@ -1,0 +1,38 @@
+051_anagrams:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk10/051_anagrams.py 
+__main__
+Type a word or phrase here: hat
+Type another word or phrase here: aht
+They are anagrams.
+Continue? y or n n
+
+058_numbers:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk10/058_numbers.py 
+__main__
+Sorted by sum of digits: 
+['1243', '1208', '329', '1169', '865']
+Continue? y or n n
+>>>
+
+059_numbers:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk10/059_numbers.py 
+__main__
+Sorted by largest prime factor: 
+[329, 1243, 1208, 1208, 1169, 865]
+Continue? y or n n
+>>>
+
+060_numbers:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk10/060_numbers.py 
+__main__
+Sorted by last digit: 
+[1169, 329, 1208, 865, 1243]
+Continue? y or n n
+>>>
+
+061_numbers:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk10/061_numbers.py 
+__main__
+[1169, 329, 865, 1243, 1208]
+Continue? y or n n
+>>> 

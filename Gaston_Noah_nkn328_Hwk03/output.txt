@@ -1,0 +1,25 @@
+this document shows output of the programs
+54_income:
+RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk03/54_income.py 
+__main__
+Enter the company's annual revenue: 50
+Input the company's expenses: 25
+For the net income, $25.0 degozaru
+>>>
+
+56_changeInSalary:
+RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk03/56_changeInSalary.py 
+__main__
+Enter your starting salary here: 50
+New salary: $57.88
+Percentage change: 15.76%
+>>>
+
+58_presentValue:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk03/58_presentValue.py 
+__main__
+Enter future value here as well as the winning lottery numbers: 50
+Enter the interest rate as a percent: 15
+Enter the number of years(you can include fractions of a year too): 5
+Present value: $24.86
+>>>

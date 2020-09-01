@@ -1,0 +1,50 @@
+17_greatestCommonDivisor:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_nkn328_Hwk07\17_greatestCommonDivisor.py 
+__main__
+Enter an integer: 6
+Enter another integer: 4
+The greatest common divisor is 2
+Enter an integer:
+
+
+18_factorization:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_nkn328_Hwk07\18_factorization.py 
+__main__
+Enter a number to factor: 72
+The prime factors are  [2, 2, 2, 3, 3]
+Enter a number to factor: 
+
+
+21_radioactiveDecay:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_nkn328_Hwk07\21_radioactiveDecay.py 
+__main__
+The decay time would be 196 years.
+>>> 
+
+
+27_sameBirthdayAsYou:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk07/27_sameBirthdayAsYou.py 
+__main__
+There needs to be at least 253 students in the class for there to be more than a 50% chance of someone sharing a birthday with you.
+>>> 
+
+
+31_savingsAccount:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk07/31_savingsAccount.py 
+__main__
+Options:
+1. Make a deposit
+2. Make a withdrawal
+3. Obtain balance
+4. Quit
+
+Make a selection from the menu: 1
+Enter amount to deposit: 500
+Make a selection from the menu: 3
+The balance is $1500.0
+Make a selection from the menu: 2
+Enter amount of withdrawal: 500
+Make a selection from the menu: 3
+The balance is $1000.0
+Make a selection from the menu: 4
+>>> 

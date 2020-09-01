@@ -1,0 +1,53 @@
+outputs
+
+32.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/32_pigLatin.py 
+__main__
+Enter word to translate here: meow
+eowmay
+
+35.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/35_inputValidation.py 
+__main__
+Type a single upper case letter: X
+Good boy.
+Type a single upper case letter: XL
+Follow directions and we can get through this.
+Type a single upper case letter:
+
+37.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/37_militaryTime.py 
+__main__
+Enter a military time 0000 to 2359: 1253
+12:53PM
+Enter a military time 0000 to 2359:
+
+40.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/40_graduationHonors.py 
+__main__
+Enter your gpa: 3.8
+You graduated magna cum laude.
+Enter your gpa: 3.9
+You graduated summa cum laude.
+Enter your gpa:
+
+41.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/41_graduationHonors.py 
+__main__
+Enter your gpa: 3.5
+You graduated cum laude.
+Enter your gpa: 3.9
+You graduated summa cum laude.
+Enter your gpa: 5
+Try again cheater.
+Enter your gpa: 1
+Try again cheater.
+Enter your gpa:
+
+42.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/42_secondSuitHalfOff.py 
+__main__
+Enter the cost of suit one: 25
+Enter the cost of suit two: 51
+The total is: $63.5
+Enter the cost of suit one:
+
+43.  RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_nkn328_Hwk06/43_incomeTax.py 
+__main__
+Enter your taxable income: 60000
+Your tax is: $1500.0
+Enter your taxable income: 

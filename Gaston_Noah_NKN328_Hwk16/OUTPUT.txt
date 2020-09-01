@@ -1,0 +1,35 @@
+OUTPUT
+018_rockPaperScissors:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk16/018_rockPaperScissors.py 
+Enter name of player 1: Jack
+Enter name of player 2: Jill
+Jack played Rock
+Jill played Paper
+Jill  wins.
+Reset? y or n y
+Enter name of player 1: Naruto
+Enter name of player 2: Sasuke
+Naruto played Rock
+Sasuke played Paper
+Sasuke  wins.
+Reset? y or n y
+Enter name of player 1: R2D2
+Enter name of player 2: C3PO
+R2D2 played Scissors
+C3PO played Paper
+R2D2  wins.
+Reset? y or n n
+>>>
+022_locateFirstAce:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk16/022_locateFirstAce.py 
+The average number af cards drawn to reach an ace was  10.65477
+>>> 
+023_bridge:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk16/023_bridge.py 
+['7♥', '4♥', '7♣', '5♥', '5♦', '6♦', '3♥', '2♠', 'A♣', 'K♠', '2♣', '10♥', 'K♥']
+The total points are  10
+Continue? y or n y
+['J♣', '4♣', '5♥', '8♠', 'J♦', '9♥', '7♥', '7♣', 'J♠', '10♠', 'J♥', 'K♦', 'A♣']
+The total points are  11
+Continue? y or n n
+>>> 

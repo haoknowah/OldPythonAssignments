@@ -1,0 +1,53 @@
+OUTPUT
+014_distanceBetweenTwoPoints:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk19\014_distanceBetweenTwoPoints.py 
+Enter x-coordinate of first point: 5
+Enter y-coordinate of first point: 6
+Enter x-coordinate of second point: 4
+Enter y-coordinate of second point: 9
+3.16
+Continue? y or n n
+>>>
+
+025_cards:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk19\025_cards.py 
+The card is a queen of diamonds.
+Do you wish to continue? y or n y
+The card is a queen of hearts.
+Do you wish to continue? y or n n
+>>>
+
+026_cards:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk19\026_cards.py 
+The card is a king of diamonds.
+Do you wish to continue? y or n y
+The card is a 3 of diamonds.
+Do you wish to continue? y or n n
+>>>
+
+027_fraction:no output, used in last few problems
+
+028_reduceAFraction:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk19\028_reduceAFraction.py 
+Input the numerator: 5
+Input the denominator: 10
+1/2
+Continue? y or n n
+>>>
+
+029_convertADecimalToAFraction:
+ RESTART: C:\Users\Noah\Documents\python\Gaston_Noah_NKN328_Hwk19\029_convertADecimalToAFraction.py 
+Enter a decimal greater than zero but less than one: 0.6
+3/5
+Do you wish to continue? y or n n
+>>>
+
+030_addFractions:
+ RESTART: C:/Users/Noah/Documents/python/Gaston_Noah_NKN328_Hwk19/030_addFractions.py 
+Enter the numerator for the first fraction: 1
+Enter the denominator of the first fraction: 4
+Enter the numerator of the second fraction: 1
+Enter the denominator for the second fraction: 2
+1/4 + 1/2=3/4
+Continue? y or n n
+>>> 
